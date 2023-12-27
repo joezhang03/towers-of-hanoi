@@ -1,0 +1,261 @@
+# depslib dependency file v1.0
+1603562991 source:c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi\towersofhanoi.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1603565216 c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi\hanoi.h
+	"APVECTOR.H"
+
+1603568089 source:c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi\towersofhanoimain.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1603464636 source:c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi\towersofhanoiallegro.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1603563903 source:c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi\towersofhanoirecursion.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1603316163 source:c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi\drawbackground.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+
+1600705256 c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi\apvector.h
+	"apvector.cpp"
+
+1603408633 c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi\apvector.cpp
+	<cstdlib>
+	<cassert>
+	<iostream>
+	"apvector.h"
+
+1603567891 source:c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi\display.cpp
+	<iostream>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1603464819 source:c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi\titlepage.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1604336073 source:c:\ics 4u\zhang_joe_ics4u_playable_towers_of_hanoi\zhang_joe_ics4u_towers_of_hanoi\display.cpp
+	<iostream>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1604334482 c:\ics 4u\zhang_joe_ics4u_playable_towers_of_hanoi\zhang_joe_ics4u_towers_of_hanoi\hanoi.h
+	"APVECTOR.H"
+
+1600701656 c:\ics 4u\zhang_joe_ics4u_playable_towers_of_hanoi\zhang_joe_ics4u_towers_of_hanoi\apvector.h
+	"apvector.cpp"
+
+1603405033 c:\ics 4u\zhang_joe_ics4u_playable_towers_of_hanoi\zhang_joe_ics4u_towers_of_hanoi\apvector.cpp
+	<cstdlib>
+	<cassert>
+	<iostream>
+	"apvector.h"
+
+1604325258 source:c:\ics 4u\zhang_joe_ics4u_playable_towers_of_hanoi\zhang_joe_ics4u_towers_of_hanoi\titlepage.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1603662758 source:c:\ics 4u\zhang_joe_ics4u_playable_towers_of_hanoi\zhang_joe_ics4u_towers_of_hanoi\towersofhanoi.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1604283843 source:c:\ics 4u\zhang_joe_ics4u_playable_towers_of_hanoi\zhang_joe_ics4u_towers_of_hanoi\towersofhanoiallegro.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1604334619 source:c:\ics 4u\zhang_joe_ics4u_playable_towers_of_hanoi\zhang_joe_ics4u_towers_of_hanoi\towersofhanoirecursion.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1604335731 source:c:\ics 4u\zhang_joe_ics4u_playable_towers_of_hanoi\zhang_joe_ics4u_towers_of_hanoi\towersofhanoimain.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1604334792 source:c:\ics 4u\zhang_joe_ics4u_playable_towers_of_hanoi\zhang_joe_ics4u_towers_of_hanoi\gamebuttons.cpp
+	<iostream>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1604283843 source:c:\ics 4u\zhang_joe_ics4u_playable_towers_of_hanoi\zhang_joe_ics4u_towers_of_hanoi\stack.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1604336073 source:c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi_final\towers-of-hanoi---recursive-algorithms-jz08\zhang_joe_ics4u_towers_of_hanoi\display.cpp
+	<iostream>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1604334482 c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi_final\towers-of-hanoi---recursive-algorithms-jz08\zhang_joe_ics4u_towers_of_hanoi\hanoi.h
+	"APVECTOR.H"
+
+1600701656 c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi_final\towers-of-hanoi---recursive-algorithms-jz08\zhang_joe_ics4u_towers_of_hanoi\apvector.h
+	"apvector.cpp"
+
+1603405033 c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi_final\towers-of-hanoi---recursive-algorithms-jz08\zhang_joe_ics4u_towers_of_hanoi\apvector.cpp
+	<cstdlib>
+	<cassert>
+	<iostream>
+	"apvector.h"
+
+1604334792 source:c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi_final\towers-of-hanoi---recursive-algorithms-jz08\zhang_joe_ics4u_towers_of_hanoi\gamebuttons.cpp
+	<iostream>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1604283843 source:c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi_final\towers-of-hanoi---recursive-algorithms-jz08\zhang_joe_ics4u_towers_of_hanoi\stack.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1604325258 source:c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi_final\towers-of-hanoi---recursive-algorithms-jz08\zhang_joe_ics4u_towers_of_hanoi\titlepage.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1604283843 source:c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi_final\towers-of-hanoi---recursive-algorithms-jz08\zhang_joe_ics4u_towers_of_hanoi\towersofhanoiallegro.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1604334619 source:c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi_final\towers-of-hanoi---recursive-algorithms-jz08\zhang_joe_ics4u_towers_of_hanoi\towersofhanoirecursion.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
+1604342186 source:c:\ics 4u\zhang_joe_ics4u_towers_of_hanoi_final\towers-of-hanoi---recursive-algorithms-jz08\zhang_joe_ics4u_towers_of_hanoi\towersofhanoimain.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"hanoi.h"
+	"APVECTOR.H"
+
